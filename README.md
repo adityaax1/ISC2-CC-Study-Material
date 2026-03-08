@@ -42,7 +42,7 @@ Let’s make this resource better together! 🤝
 ## 📚 Useful Resources
 
 - 🌐 [ISC2 Certified in Cybersecurity (CC) Official Page](https://www.isc2.org/certifications/certified-in-cybersecurity)  
-- 📄 [Official ISC2 CC Exam Outline (PDF)](https://www.isc2.org/-/media/ISC2/Certifications/CC/CC-Exam-Outline.ashx)
+- 📄 [Official ISC2 CC Exam Outline (PDF)](https://www.isc2.org/certifications/cc/cc-certification-exam-outline)
 
 ## 🧠 Final Note
 
