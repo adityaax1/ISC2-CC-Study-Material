@@ -16,14 +16,6 @@ This certification covers **five key domains**. Each section below links to a de
 | **4**     | Network Security                                                                             | [📥 Download](./Domain4_NetworkSecurity/D4_Network_Security.pdf)                              |
 | **5**     | Security Operations                                                                          | [📥 Download](./Domain5_SecurityOperations/D5_Security_Operations.pdf)                        |
 
-## 🗂️ What's Inside
-
-Each domain folder contains:
-
-- ✅ **PDF Notes** with clear, organized content  
-- ✅ **README Summary** outlining key concepts and objectives  
-- ✅ Coverage aligned with **ISC2’s official exam outline**
-
 ## ⚠️ Disclaimer
 
 > These study materials are created as part of a personal study effort.  
